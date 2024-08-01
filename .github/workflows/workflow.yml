@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: ${{ github.actor }}
+name: workflow
 run-name: ${{ github.actor }} is triggering GitHub Actions
 
 
